@@ -11,3 +11,211 @@ All emojis consist of official emoji characters, emoji names and meanings listed
 
 The easiest way to quickly **copy and paste emojis**.
 ### List of Object Emojis
+- ⌚ Watch
+- 📱 Mobile Phone
+- 📲 Mobile Phone with Arrow
+- 💻 Laptop
+- 🖥️ Desktop Computer
+- ⌨️ Keyboard
+- 🖱️ Computer Mouse
+- 🖲️ Trackball
+- 🖨️ Printer
+- 🕹️ Joystick
+- 💽 Computer Disk
+- 💾 Floppy Disk
+- 💿 Optical Disk
+- 📀 DVD
+- 📼 Videocassette
+- 📷 Camera
+- 📸 Camera with Flash
+- 📹 Video Camera
+- 🎥 Movie Camera
+- 📽️ Film Projector
+- 🎞️ Film Frames
+- 📞 Telephone Receiver
+- ☎️ Telephone
+- 📟 Pager
+- 📠 Fax Machine
+- 📺 Television
+- 📻 Radio
+- 🎙️ Studio Microphone
+- 🎚️ Level Slider
+- 🎛️ Control Knobs
+- 🧭 Compass
+- ⏱ Stopwatch
+- ⏲ Timer Clock
+- ⏰ Alarm Clock
+- 🕰️ Mantelpiece Clock
+- ⌛ Hourglass Done
+- ⏳ Hourglass Not Done
+- 📡 Satellite Antenna
+- 🔋 Battery
+- 🔌 Electric Plug
+- 💡 Light Bulb
+- 🔦 Flashlight
+- 🕯️ Candle
+- 🧯 Fire Extinguisher
+- 🛢️ Oil Drum
+- 💵 Dollar Banknote
+- 💶 Euro Banknote
+- 💷 Pound Banknote
+- 💴 Yen Banknote
+- 💸 Money with Wings
+- 💰 Money Bag
+- 💳 Credit Card
+- 💎 Gem Stone
+- ⚖️ Balance Scale
+- 🧰 Toolbox
+- 🔧 Wrench
+- 🪓 Axe
+- 🔨 Hammer
+- ⚒️ Hammer and Pick
+- 🛠️ Hammer and Wrench
+- ⛏️ Pick
+- 🗜️ Clamp
+- 🔩 Nut and Bolt
+- ⚙️ Gear
+- ⛓️ Chains
+- 🧲 Magnet
+- 🧱 Brick
+- 🦯 White Cane
+- 🧷 Safety Pin
+- 🧶 Yarn
+- 🧵 Thread
+- 🤿 Diving Mask
+- 🪀 Yo-Yo
+- 🪁 Kite
+- 🔫 Pistol
+- 💣 Bomb
+- 🧨 Firecracker
+- 🔪 Kitchen Knife
+- 🗡️ Dagger
+- ⚔️ Crossed Swords
+- 🛡️ Shield
+- 🚬 Cigarette
+- ⚰️ Coffin
+- ⚱️ Funeral Urn
+- 🏺 Amphora
+- 🔮 Crystal Ball
+- 📿 Prayer Beads
+- 🧿 Nazar Amulet
+- 💈 Barber Pole
+- ⚗️ Alembic
+- 🔭 Telescope
+- 🔬 Microscope
+- 🕳️ Hole
+- 🩹 Adhesive Bandage
+- 🩸 Drop of Blood
+- 💊 Pill
+- 🩺 Stethoscope
+- 💉 Syringe
+- 🧬 DNA
+- 🦠 Microbe
+- 🧫 Petri Dish
+- 🧪 Test Tube
+- 🌡️ Thermometer
+- 🧹 Broom
+- 🧺 Basket
+- 🧻 Roll of Paper
+- 🚽 Toilet
+- 🚿 Shower
+- 🛁 Bathtub
+- 🛀 Person Taking Bath
+- 🧼 Soap
+- 🧽 Sponge
+- 🪒 Razor
+- 🧴 Lotion Bottle
+- 🔔 Bell
+- 🛎️ Bellhop Bell
+- 🔑 Key
+- 🗝️ Old Key
+- 🚪 Door
+- 🪑 Chair
+- 🛋️ Couch and Lamp
+- 🛏️ Bed
+- 🛌 Person in Bed
+- 🧸 Teddy Bear
+- 🖼️ Framed Picture
+- 🛍️ Shopping Bags
+- 🛒 Shopping Cart
+- 🎁 Wrapped Gift
+- 🎈 Balloon
+- 🎏 Carp Streamer
+- 🎀 Ribbon
+- 🎊 Confetti Ball
+- 🎉 Party Popper
+- 🎎 Japanese Dolls
+- 🏮 Red Paper Lantern
+- 🪔 Diya Lamp
+- 🎐 Wind Chime
+- 🧧 Red Envelope
+- ✉️ Envelope
+- 📩 Envelope with Arrow
+- 📨 Incoming Envelope
+- 📧 E-Mail
+- 💌 Love Letter
+- 📥 Inbox Tray
+- 📤 Outbox Tray
+- 📦 Package
+- 🏷️ Label
+- 📪 Closed Mailbox with Lowered Flag
+- 📫 Closed Mailbox with Raised Flag
+- 📭 Open Mailbox with Lowered Flag
+- 📬 Open Mailbox with Raised Flag
+- 📮 Postbox
+- 📯 Postal Horn
+- 📜 Scroll
+- 📃 Page with Curl
+- 🧾 Receipt
+- 📄 Page Facing Up
+- 📑 Bookmark Tabs
+- 📝 Memo
+- 📊 Bar Chart
+- 📈 Chart Increasing
+- 📉 Chart Decreasing
+- 🗓️ Spiral Calendar
+- 📆 Tear Off Calendar
+- 📅 Calendar
+- 📋 Clipboard
+- 📁 File Folder
+- 📂 Open File Folder
+- 🗂️ Card Index Dividers
+- 🗞️ Rolled Up Newspaper
+- 📰 Newspaper
+- 🗒️ Spiral Notepad
+- 📒 Ledger
+- 📓 Notebook
+- 📔 Notebook with Decorative Cover
+- 📕 Closed Book
+- 📗 Green Book
+- 📘 Blue Book
+- 📙 Orange Book
+- 📚 Books
+- 📖 Open Book
+- 🔖 Bookmark
+- 📇 Card Index
+- 🗃️ Card File Box
+- 🗳️ Ballot Box with Ballot
+- 🗄️ File Cabinet
+- 🗑️ Wastebasket
+- 🔗 Link
+- 📎 Paperclip
+- 🖇️ Linked Paperclips
+- 📐 Triangular Ruler
+- 📏 Straight Ruler
+- 🧮 Abacus
+- 📌 Pushpin
+- 📍 Round Pushpin
+- ✂️ Scissors
+- ✏️ Pencil
+- 🖌️ Paintbrush
+- 🖍️ Crayon
+- 🖊️ Pen
+- 🖋️ Fountain Pen
+- ✒️ Black Nib
+- 🔍 Magnifying Glass Tilted Left
+- 🔎 Magnifying Glass Tilted Right
+- 🔏 Locked with Pen
+- 🔐 Locked with Key
+- 🔒 Locked
+- 🔓 Unlocked
